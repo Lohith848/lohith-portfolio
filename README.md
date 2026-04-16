@@ -27,7 +27,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/lohva-portfolio.git
-cd lohva-portfolio
+cd lohith-portfolio
 ```
 
 Install dependencies:
@@ -63,3 +63,6 @@ This project is deployed using Vercel. Any changes pushed to the main branch are
 ## License
 
 This project is open source and available for personal and educational use.
+
+
+Made by LOHITH G 
