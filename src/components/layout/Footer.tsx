@@ -8,7 +8,7 @@ export default function Footer() {
             <span className="text-amber-primary">.</span>
           </a>
           <p className="text-xs font-mono opacity-40 uppercase tracking-widest">
-            Built with chaos and AI in Coimbatore.
+            Built with chaos.
           </p>
         </div>
         
