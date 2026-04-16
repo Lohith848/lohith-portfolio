@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 export default function VibeCoder() {
   const words = [
     "A vibe coder doesn't wait for a CS degree to ship.",
-    "They prompt. They iterate. They Google what they don't know.",
+    "They prompt. They iterate. They learn what they don't know.",
     "They use every tool available — Claude, Cursor, v0, ChatGPT —",
     "like a craftsman uses their entire workshop.",
     "",
