@@ -64,5 +64,7 @@ This project is deployed using Vercel. Any changes pushed to the main branch are
 
 This project is open source and available for personal and educational use.
 
+---
 
-Made by LOHITH G 
+By 
+LOHITH G 
